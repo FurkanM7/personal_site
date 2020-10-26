@@ -7,7 +7,7 @@ module.exports = {
   subtitle: '',
   copyright: '',
   disqusShortname: '',
-  postsPerPage: 4,
+  postsPerPage: 5,
   googleAnalyticsId: 'UA-73379983-2',
   useKatex: false,
   menu: [
@@ -27,9 +27,9 @@ module.exports = {
   author: {
     name: 'Furkan Murat',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Hi, i am Furkan',
     contacts: {
-      email: '',
+      email: 'Furkan98murat@gmail.com',
       facebook: '',
       telegram: 'FurkanM7',
       twitter: 'Furkan_M7',
