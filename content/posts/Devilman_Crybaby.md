@@ -4,19 +4,23 @@ date: "2020-10-26T14:50:37.121Z"
 template: "post"
 draft: false
 slug: "devilman-crybaby"
-category: "Anime"
+category: "Animation"
 tags:
+  - "Animation"
   - "Anime"
   - "Manga"
   - "Go Nagai"
-description: "Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum."
+  - "Yuasa" 
+description: "Brief review of Devilman Crybaby, Yuasa's adaptation of Go Nagai's Devilman(1972) manga"
 socialImage: "/media/devilman.jpg"
 ---
 
-Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.
+Episodes: 10
+Runtime: 25 minutes
+Streaming platform: Netflix 
 
-![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/media/image-2.jpg)
+![Questo testo non capisco dove va](/media/devilman.jpg)
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. 
+Today I recommend Devilman Crybaby, a Netflix original series and also one of the most interesting among those on the streaming platform. The animation and style are very original, the music is always well chosen. Yuasa's hand is clear but it does not obscure the tamatics of the original work of Go Nagai manga, on the contrary it adapts them in a masterly way to the present day by abandoning the setting of the beginning of the seventies. A good way to approach both the works of Go Nagai but also the unique style of Yuasa. It also represents the best animated adaptation of this masterpiece.
 
-Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
+Other Yuasa's works: Ping Pong: The Animaton, The Tatami Galaxy, Mind Game.
