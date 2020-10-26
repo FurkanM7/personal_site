@@ -25,6 +25,6 @@ Streaming platform: Netflix
 
 Today I recommend Devilman Crybaby, a Netflix original series and also one of the most interesting among those on the streaming platform. The animation and style are very original, the music is always well chosen. Yuasa's hand is clear but it does not obscure the tamatics of the original work of Go Nagai manga, on the contrary it adapts them in a masterly way to the present day by abandoning the setting of the beginning of the seventies. A good way to approach both the works of Go Nagai but also the unique style of Yuasa. It also represents the best animated adaptation of this masterpiece.
 
-![](/media/devilman1.png)
+![](/media/Devilman1.png)
 
 Other Yuasa's works: Ping Pong: The Animaton, The Tatami Galaxy, Mind Game.
